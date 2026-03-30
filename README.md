@@ -85,3 +85,8 @@ I care about making tech more **accessible, inclusive, and considerate of its us
 Tech is not just about systems.  
 It’s also about the people who get to use them.
 
+
+**Attribution**
+
+This profile was created using a mixture of profiles on the [Awesome GitHub Profile README Template Collection
+](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
