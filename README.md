@@ -83,5 +83,5 @@ I care about making tech more **accessible, inclusive, and considerate of its us
 
 ### ✨ Philosophy
 Tech is not just about systems.  
-It’s about people, and who gets to belong.
+It’s also about the people who get to use them.
 
