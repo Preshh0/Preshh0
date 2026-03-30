@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 ---
 
 ### 🌱 What Drives Me
-I care about making tech more **accessible, inclusive, and human**.
+I care about making tech more **accessible, inclusive, and considerate of its users**.
 
-- 🌍 Open source & community health  
+- 🌍 Open source. Research.   
 - ✍️ Contributor to *The Turing Way*  
 - 🎓 SSI Fellow focused on research & impact  
 - 🔍 Exploring AI in research and knowledge systems  
-- 🤝 Building inclusive developer communities  
+- 🤝 Building inclusive communities  
 
 ---
 
@@ -83,5 +83,5 @@ I care about making tech more **accessible, inclusive, and human**.
 
 ### ✨ Philosophy
 Tech is not just about systems.  
-It’s about people—and who gets to belong.
--->
+It’s about people, and who gets to belong.
+
